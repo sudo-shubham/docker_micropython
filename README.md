@@ -1,4 +1,4 @@
-# docker_micropython
+# Docker Micropython
 
 ## Introduction
 
