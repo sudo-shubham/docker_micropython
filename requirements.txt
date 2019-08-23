@@ -11,7 +11,7 @@ certifi==2017.4.17
 cffi==1.10.0
 chardet==3.0.3
 crypto==1.4.1
-cryptography==2.0
+cryptography==2.3
 Cython
 datashape==0.5.2
 decorator==4.0.11
