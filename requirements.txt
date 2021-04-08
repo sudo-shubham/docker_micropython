@@ -15,7 +15,7 @@ cryptography==3.3.2
 Cython
 datashape==0.5.2
 decorator==4.0.11
-Django==2.2.13
+Django==2.2.20
 django-bootstrap3==9.1.0
 django-celery-results==1.0.1
 django-common-helpers==0.9.1
